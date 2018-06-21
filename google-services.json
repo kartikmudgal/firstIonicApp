@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "89205317632",
+    "firebase_url": "https://test-project-6a1e0.firebaseio.com",
+    "project_id": "test-project-6a1e0",
+    "storage_bucket": "test-project-6a1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89205317632:android:d47ec5f658a64556",
+        "android_client_info": {
+          "package_name": "com.kartik.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89205317632-crc2t4a2dko2po0o7s6786ori9p1lmts.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "89205317632-crc2t4a2dko2po0o7s6786ori9p1lmts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-sGBCel0GuqSH6NTJGJEeny0GsxgSKaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
