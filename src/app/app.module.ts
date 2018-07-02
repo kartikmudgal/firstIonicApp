@@ -20,7 +20,7 @@ import { HomePage } from '../pages/home/home';
 import { LoginPage } from '../pages/login/login';
 import { RegisterPage } from '../pages/register/register';
 import {LoggedinPage} from '../pages/loggedin/loggedin';
-//import {ChatPage} from '../pages/chat/chat';
+import {ChatPage} from '../pages/chat/chat';
 
 
 
@@ -45,6 +45,7 @@ const firebaseAuth = {
     LoginPage,
     RegisterPage,
     LoggedinPage,
+    ChatPage
   ],
   imports: [
     BrowserModule,
@@ -71,6 +72,7 @@ const firebaseAuth = {
     LoginPage,
     RegisterPage,
     LoggedinPage,
+    ChatPage
   ],
   providers: [
     StatusBar,
